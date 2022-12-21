@@ -1,0 +1,876 @@
+#########################
+1000 dées || 51 solutions
+#########################
+300 x héros
+100 x capitaine
+200 x soldat
+50 x traitre
+250 x maudit
+100 x mage
+#################
+>Solution n°1
+Equilibre = 22966
+GROUPE 1
+151 x héros
+52 x capitaine
+100 x soldat
+26 x traitre
+130 x maudit
+49 x mage
+GROUPE 2
+149 x héros
+48 x capitaine
+100 x soldat
+24 x traitre
+120 x maudit
+51 x mage
+---------------
+>Solution n°2
+Equilibre = 22755
+GROUPE 1
+143 x héros
+44 x capitaine
+77 x soldat
+27 x traitre
+115 x maudit
+55 x mage
+GROUPE 2
+157 x héros
+56 x capitaine
+123 x soldat
+23 x traitre
+135 x maudit
+45 x mage
+---------------
+>Solution n°3
+Equilibre = 22966
+GROUPE 1
+155 x héros
+42 x capitaine
+108 x soldat
+28 x traitre
+126 x maudit
+49 x mage
+GROUPE 2
+145 x héros
+58 x capitaine
+92 x soldat
+22 x traitre
+124 x maudit
+51 x mage
+---------------
+>Solution n°4
+Equilibre = 22657
+GROUPE 1
+168 x héros
+47 x capitaine
+118 x soldat
+21 x traitre
+149 x maudit
+44 x mage
+GROUPE 2
+132 x héros
+53 x capitaine
+82 x soldat
+29 x traitre
+101 x maudit
+56 x mage
+---------------
+>Solution n°5
+Equilibre = 22657
+GROUPE 1
+169 x héros
+60 x capitaine
+100 x soldat
+28 x traitre
+146 x maudit
+44 x mage
+GROUPE 2
+131 x héros
+40 x capitaine
+100 x soldat
+22 x traitre
+104 x maudit
+56 x mage
+---------------
+>Solution n°6
+Equilibre = 22897
+GROUPE 1
+160 x héros
+58 x capitaine
+105 x soldat
+23 x traitre
+130 x maudit
+47 x mage
+GROUPE 2
+140 x héros
+42 x capitaine
+95 x soldat
+27 x traitre
+120 x maudit
+53 x mage
+---------------
+>Solution n°7
+Equilibre = 22835
+GROUPE 1
+132 x héros
+49 x capitaine
+95 x soldat
+25 x traitre
+114 x maudit
+54 x mage
+GROUPE 2
+168 x héros
+51 x capitaine
+105 x soldat
+25 x traitre
+136 x maudit
+46 x mage
+---------------
+>Solution n°8
+Equilibre = 22894
+GROUPE 1
+157 x héros
+46 x capitaine
+108 x soldat
+30 x traitre
+136 x maudit
+47 x mage
+GROUPE 2
+143 x héros
+54 x capitaine
+92 x soldat
+20 x traitre
+114 x maudit
+53 x mage
+---------------
+>Solution n°9
+Equilibre = 22894
+GROUPE 1
+149 x héros
+57 x capitaine
+106 x soldat
+27 x traitre
+138 x maudit
+47 x mage
+GROUPE 2
+151 x héros
+43 x capitaine
+94 x soldat
+23 x traitre
+112 x maudit
+53 x mage
+---------------
+>Solution n°10
+Equilibre = 22835
+GROUPE 1
+157 x héros
+62 x capitaine
+108 x soldat
+20 x traitre
+138 x maudit
+46 x mage
+GROUPE 2
+143 x héros
+38 x capitaine
+92 x soldat
+30 x traitre
+112 x maudit
+54 x mage
+---------------
+>Solution n°11
+Equilibre = 22966
+GROUPE 1
+153 x héros
+46 x capitaine
+95 x soldat
+24 x traitre
+123 x maudit
+51 x mage
+GROUPE 2
+147 x héros
+54 x capitaine
+105 x soldat
+26 x traitre
+127 x maudit
+49 x mage
+---------------
+>Solution n°12
+Equilibre = 22941
+GROUPE 1
+155 x héros
+55 x capitaine
+114 x soldat
+21 x traitre
+122 x maudit
+48 x mage
+GROUPE 2
+145 x héros
+45 x capitaine
+86 x soldat
+29 x traitre
+128 x maudit
+52 x mage
+---------------
+>Solution n°13
+Equilibre = 22937
+GROUPE 1
+162 x héros
+51 x capitaine
+85 x soldat
+15 x traitre
+118 x maudit
+52 x mage
+GROUPE 2
+138 x héros
+49 x capitaine
+115 x soldat
+35 x traitre
+132 x maudit
+48 x mage
+---------------
+>Solution n°14
+Equilibre = 22835
+GROUPE 1
+137 x héros
+42 x capitaine
+94 x soldat
+22 x traitre
+120 x maudit
+54 x mage
+GROUPE 2
+163 x héros
+58 x capitaine
+106 x soldat
+28 x traitre
+130 x maudit
+46 x mage
+---------------
+>Solution n°15
+Equilibre = 22966
+GROUPE 1
+147 x héros
+46 x capitaine
+106 x soldat
+22 x traitre
+120 x maudit
+51 x mage
+GROUPE 2
+153 x héros
+54 x capitaine
+94 x soldat
+28 x traitre
+130 x maudit
+49 x mage
+---------------
+>Solution n°16
+Equilibre = 22939
+GROUPE 1
+143 x héros
+53 x capitaine
+101 x soldat
+26 x traitre
+109 x maudit
+52 x mage
+GROUPE 2
+157 x héros
+47 x capitaine
+99 x soldat
+24 x traitre
+141 x maudit
+48 x mage
+---------------
+>Solution n°17
+Equilibre = 22939
+GROUPE 1
+153 x héros
+48 x capitaine
+85 x soldat
+19 x traitre
+127 x maudit
+52 x mage
+GROUPE 2
+147 x héros
+52 x capitaine
+115 x soldat
+31 x traitre
+123 x maudit
+48 x mage
+---------------
+>Solution n°18
+Equilibre = 22966
+GROUPE 1
+148 x héros
+53 x capitaine
+103 x soldat
+23 x traitre
+132 x maudit
+49 x mage
+GROUPE 2
+152 x héros
+47 x capitaine
+97 x soldat
+27 x traitre
+118 x maudit
+51 x mage
+---------------
+>Solution n°19
+Equilibre = 22894
+GROUPE 1
+152 x héros
+53 x capitaine
+107 x soldat
+29 x traitre
+136 x maudit
+47 x mage
+GROUPE 2
+148 x héros
+47 x capitaine
+93 x soldat
+21 x traitre
+114 x maudit
+53 x mage
+---------------
+>Solution n°20
+Equilibre = 22965
+GROUPE 1
+139 x héros
+53 x capitaine
+100 x soldat
+30 x traitre
+138 x maudit
+49 x mage
+GROUPE 2
+161 x héros
+47 x capitaine
+100 x soldat
+20 x traitre
+112 x maudit
+51 x mage
+---------------
+>Solution n°21
+Equilibre = 22967
+GROUPE 1
+129 x héros
+56 x capitaine
+104 x soldat
+25 x traitre
+128 x maudit
+51 x mage
+GROUPE 2
+171 x héros
+44 x capitaine
+96 x soldat
+25 x traitre
+122 x maudit
+49 x mage
+---------------
+>Solution n°22
+Equilibre = 22831
+GROUPE 1
+144 x héros
+53 x capitaine
+89 x soldat
+24 x traitre
+104 x maudit
+54 x mage
+GROUPE 2
+156 x héros
+47 x capitaine
+111 x soldat
+26 x traitre
+146 x maudit
+46 x mage
+---------------
+>Solution n°23
+Equilibre = 22966
+GROUPE 1
+149 x héros
+48 x capitaine
+109 x soldat
+24 x traitre
+129 x maudit
+49 x mage
+GROUPE 2
+151 x héros
+52 x capitaine
+91 x soldat
+26 x traitre
+121 x maudit
+51 x mage
+---------------
+>Solution n°24
+Equilibre = 22966
+GROUPE 1
+150 x héros
+55 x capitaine
+100 x soldat
+31 x traitre
+123 x maudit
+49 x mage
+GROUPE 2
+150 x héros
+45 x capitaine
+100 x soldat
+19 x traitre
+127 x maudit
+51 x mage
+---------------
+>Solution n°25
+Equilibre = 22939
+GROUPE 1
+152 x héros
+52 x capitaine
+103 x soldat
+27 x traitre
+134 x maudit
+48 x mage
+GROUPE 2
+148 x héros
+48 x capitaine
+97 x soldat
+23 x traitre
+116 x maudit
+52 x mage
+---------------
+>Solution n°26
+Equilibre = 22755
+GROUPE 1
+130 x héros
+54 x capitaine
+84 x soldat
+19 x traitre
+119 x maudit
+55 x mage
+GROUPE 2
+170 x héros
+46 x capitaine
+116 x soldat
+31 x traitre
+131 x maudit
+45 x mage
+---------------
+>Solution n°27
+Equilibre = 22831
+GROUPE 1
+141 x héros
+46 x capitaine
+104 x soldat
+21 x traitre
+102 x maudit
+54 x mage
+GROUPE 2
+159 x héros
+54 x capitaine
+96 x soldat
+29 x traitre
+148 x maudit
+46 x mage
+---------------
+>Solution n°28
+Equilibre = 22939
+GROUPE 1
+159 x héros
+51 x capitaine
+92 x soldat
+30 x traitre
+136 x maudit
+48 x mage
+GROUPE 2
+141 x héros
+49 x capitaine
+108 x soldat
+20 x traitre
+114 x maudit
+52 x mage
+---------------
+>Solution n°29
+Equilibre = 22939
+GROUPE 1
+146 x héros
+48 x capitaine
+103 x soldat
+27 x traitre
+108 x maudit
+52 x mage
+GROUPE 2
+154 x héros
+52 x capitaine
+97 x soldat
+23 x traitre
+142 x maudit
+48 x mage
+---------------
+>Solution n°30
+Equilibre = 22939
+GROUPE 1
+154 x héros
+45 x capitaine
+90 x soldat
+24 x traitre
+119 x maudit
+52 x mage
+GROUPE 2
+146 x héros
+55 x capitaine
+110 x soldat
+26 x traitre
+131 x maudit
+48 x mage
+---------------
+>Solution n°31
+Equilibre = 22966
+GROUPE 1
+142 x héros
+51 x capitaine
+106 x soldat
+17 x traitre
+125 x maudit
+51 x mage
+GROUPE 2
+158 x héros
+49 x capitaine
+94 x soldat
+33 x traitre
+125 x maudit
+49 x mage
+---------------
+>Solution n°32
+Equilibre = 22897
+GROUPE 1
+154 x héros
+64 x capitaine
+108 x soldat
+23 x traitre
+127 x maudit
+47 x mage
+GROUPE 2
+146 x héros
+36 x capitaine
+92 x soldat
+27 x traitre
+123 x maudit
+53 x mage
+---------------
+>Solution n°33
+Equilibre = 22941
+GROUPE 1
+159 x héros
+58 x capitaine
+102 x soldat
+22 x traitre
+126 x maudit
+48 x mage
+GROUPE 2
+141 x héros
+42 x capitaine
+98 x soldat
+28 x traitre
+124 x maudit
+52 x mage
+---------------
+>Solution n°34
+Equilibre = 22831
+GROUPE 1
+143 x héros
+52 x capitaine
+91 x soldat
+21 x traitre
+107 x maudit
+54 x mage
+GROUPE 2
+157 x héros
+48 x capitaine
+109 x soldat
+29 x traitre
+143 x maudit
+46 x mage
+---------------
+>Solution n°35
+Equilibre = 22897
+GROUPE 1
+169 x héros
+48 x capitaine
+102 x soldat
+23 x traitre
+134 x maudit
+47 x mage
+GROUPE 2
+131 x héros
+52 x capitaine
+98 x soldat
+27 x traitre
+116 x maudit
+53 x mage
+---------------
+>Solution n°36
+Equilibre = 22939
+GROUPE 1
+142 x héros
+52 x capitaine
+119 x soldat
+19 x traitre
+136 x maudit
+48 x mage
+GROUPE 2
+158 x héros
+48 x capitaine
+81 x soldat
+31 x traitre
+114 x maudit
+52 x mage
+---------------
+>Solution n°37
+Equilibre = 22894
+GROUPE 1
+152 x héros
+50 x capitaine
+111 x soldat
+28 x traitre
+136 x maudit
+47 x mage
+GROUPE 2
+148 x héros
+50 x capitaine
+89 x soldat
+22 x traitre
+114 x maudit
+53 x mage
+---------------
+>Solution n°38
+Equilibre = 22831
+GROUPE 1
+152 x héros
+40 x capitaine
+89 x soldat
+17 x traitre
+116 x maudit
+54 x mage
+GROUPE 2
+148 x héros
+60 x capitaine
+111 x soldat
+33 x traitre
+134 x maudit
+46 x mage
+---------------
+>Solution n°39
+Equilibre = 22894
+GROUPE 1
+159 x héros
+42 x capitaine
+107 x soldat
+24 x traitre
+145 x maudit
+47 x mage
+GROUPE 2
+141 x héros
+58 x capitaine
+93 x soldat
+26 x traitre
+105 x maudit
+53 x mage
+---------------
+>Solution n°40
+Equilibre = 22941
+GROUPE 1
+136 x héros
+51 x capitaine
+95 x soldat
+29 x traitre
+122 x maudit
+52 x mage
+GROUPE 2
+164 x héros
+49 x capitaine
+105 x soldat
+21 x traitre
+128 x maudit
+48 x mage
+---------------
+>Solution n°41
+Equilibre = 22966
+GROUPE 1
+145 x héros
+49 x capitaine
+106 x soldat
+23 x traitre
+118 x maudit
+51 x mage
+GROUPE 2
+155 x héros
+51 x capitaine
+94 x soldat
+27 x traitre
+132 x maudit
+49 x mage
+---------------
+>Solution n°42
+Equilibre = 22897
+GROUPE 1
+166 x héros
+56 x capitaine
+98 x soldat
+27 x traitre
+129 x maudit
+47 x mage
+GROUPE 2
+134 x héros
+44 x capitaine
+102 x soldat
+23 x traitre
+121 x maudit
+53 x mage
+---------------
+>Solution n°43
+Equilibre = 22966
+GROUPE 1
+153 x héros
+50 x capitaine
+91 x soldat
+28 x traitre
+119 x maudit
+51 x mage
+GROUPE 2
+147 x héros
+50 x capitaine
+109 x soldat
+22 x traitre
+131 x maudit
+49 x mage
+---------------
+>Solution n°44
+Equilibre = 22941
+GROUPE 1
+141 x héros
+44 x capitaine
+94 x soldat
+26 x traitre
+128 x maudit
+52 x mage
+GROUPE 2
+159 x héros
+56 x capitaine
+106 x soldat
+24 x traitre
+122 x maudit
+48 x mage
+---------------
+>Solution n°45
+Equilibre = 22894
+GROUPE 1
+145 x héros
+52 x capitaine
+91 x soldat
+20 x traitre
+115 x maudit
+53 x mage
+GROUPE 2
+155 x héros
+48 x capitaine
+109 x soldat
+30 x traitre
+135 x maudit
+47 x mage
+---------------
+>Solution n°46
+Equilibre = 22966
+GROUPE 1
+158 x héros
+45 x capitaine
+96 x soldat
+25 x traitre
+135 x maudit
+49 x mage
+GROUPE 2
+142 x héros
+55 x capitaine
+104 x soldat
+25 x traitre
+115 x maudit
+51 x mage
+---------------
+>Solution n°47
+Equilibre = 22975
+GROUPE 1
+151 x héros
+57 x capitaine
+86 x soldat
+22 x traitre
+134 x maudit
+50 x mage
+GROUPE 2
+149 x héros
+43 x capitaine
+114 x soldat
+28 x traitre
+116 x maudit
+50 x mage
+---------------
+>Solution n°48
+Equilibre = 22975
+GROUPE 1
+165 x héros
+49 x capitaine
+96 x soldat
+25 x traitre
+114 x maudit
+50 x mage
+GROUPE 2
+135 x héros
+51 x capitaine
+104 x soldat
+25 x traitre
+136 x maudit
+50 x mage
+---------------
+>Solution n°49
+Equilibre = 22975
+GROUPE 1
+139 x héros
+47 x capitaine
+104 x soldat
+29 x traitre
+132 x maudit
+50 x mage
+GROUPE 2
+161 x héros
+53 x capitaine
+96 x soldat
+21 x traitre
+118 x maudit
+50 x mage
+---------------
+>Solution n°50
+Equilibre = 22939
+GROUPE 1
+141 x héros
+54 x capitaine
+103 x soldat
+25 x traitre
+109 x maudit
+52 x mage
+GROUPE 2
+159 x héros
+46 x capitaine
+97 x soldat
+25 x traitre
+141 x maudit
+48 x mage
+---------------
+>Solution n°51
+Equilibre = 22975
+GROUPE 1
+165 x héros
+50 x capitaine
+92 x soldat
+20 x traitre
+122 x maudit
+50 x mage
+GROUPE 2
+135 x héros
+50 x capitaine
+108 x soldat
+30 x traitre
+128 x maudit
+50 x mage

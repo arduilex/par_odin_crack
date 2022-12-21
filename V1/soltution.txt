@@ -1,0 +1,70 @@
+#######################
+56 dées || 4 solution(s)
+#######################
+1 x héros
+32 x capitaine
+4 x soldat
+5 x traitre
+6 x maudit
+8 x mage
+#################
+>Solution n°1
+Equilibre = 126
+GROUPE 1
+1 x héros
+14 x capitaine
+2 x soldat
+2 x maudit
+5 x mage
+GROUPE 2
+18 x capitaine
+2 x soldat
+5 x traitre
+4 x maudit
+3 x mage
+----------------
+>Solution n°2
+Equilibre = 127
+GROUPE 1
+19 x capitaine
+2 x soldat
+5 x traitre
+2 x maudit
+3 x mage
+GROUPE 2
+1 x héros
+13 x capitaine
+2 x soldat
+4 x maudit
+5 x mage
+----------------
+>Solution n°3
+Equilibre = 131
+GROUPE 1
+1 x héros
+17 x capitaine
+2 x soldat
+4 x maudit
+4 x mage
+GROUPE 2
+15 x capitaine
+2 x soldat
+5 x traitre
+2 x maudit
+4 x mage
+----------------
+>Solution n°4
+Equilibre = 113
+GROUPE 1
+22 x capitaine
+2 x soldat
+5 x traitre
+4 x maudit
+2 x mage
+GROUPE 2
+1 x héros
+10 x capitaine
+2 x soldat
+2 x maudit
+6 x mage
+----------------
